@@ -14,11 +14,11 @@
 ## 二、目录
 
 - [Java集合框架](/java/basis/Collections-Framework.md)
-- [Java集合——ArrayList](/java/basis/arraylist.md)
-- [Java集合——LinkedList](/java/basis/linkedlist.md)
-- [Java集合——HashMap](/java/basis/hashmap.md)
+~- [Java集合——ArrayList](/java/basis/arraylist.md)~
+~- [Java集合——LinkedList](/java/basis/linkedlist.md)~
+~- [Java集合——HashMap](/java/basis/hashmap.md)~
 - [Java集合——TreeMap](/java/basis/treemap.md)
-- [Java集合——LinkedHashMap](/java/basis/LinkedHashMap.md)
+~- [Java集合——LinkedHashMap](/java/basis/LinkedHashMap.md)~
 - [Java泛型](/java/basis/genericity.md)
 - [Java反射\(一\)](/java/basis/reflection1.md)
 - [Java反射\(二\)](/java/basis/reflection2.md)
